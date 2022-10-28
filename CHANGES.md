@@ -10,5 +10,5 @@ Recently completed and planned work is tracked here.
 ## [0.0.9](.)
 - Updated `azurerm` provider
 
-## [0.0.10-s3d-1008](.)
+## [0.0.10-s3d-1009](.)
 - Added `s3d-flow-json` in `changes` module
