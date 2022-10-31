@@ -16,5 +16,5 @@ Recently completed and planned work is tracked here.
 ## [0.0.13](.)
 - Improved descriptions of variables and outputs
 
-## [0.0.14-1000](.)
-- Changed to use `-*` as suffix for pre-release versions
+## [0.0.14-s3d-1001](.)
+- Changed to use `-x` as suffix for pre-release versions
